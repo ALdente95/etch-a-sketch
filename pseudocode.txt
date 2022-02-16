@@ -1,0 +1,3 @@
+Create canvas
+Create tool to draw 
+Create button to reset drawing
